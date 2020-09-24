@@ -1956,6 +1956,13 @@
               "archiveFileName": "STM32Tools-1.4.0-linux.tar.bz2",
               "checksum": "SHA-256:03ce112090a39ea5176b4401ec06208b8d8cccb4eb705c8f03c5aa74f3c99918",
               "size": "755585"
+            },
+            {
+              "host": "arm-linux-gnueabihf",
+              "url": "https://github.com/stm32duino/Arduino_Tools/releases/download/1.4.0/STM32Tools-1.4.0-linux.tar.bz2",
+              "archiveFileName": "STM32Tools-1.4.0-linux.tar.bz2",
+              "checksum": "SHA-256:03ce112090a39ea5176b4401ec06208b8d8cccb4eb705c8f03c5aa74f3c99918",
+              "size": "755585"
             }
           ]
         }
